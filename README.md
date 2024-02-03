@@ -1,5 +1,11 @@
 # Astro studies: i18n on 4.30
 
+## FAQ
+
+What does Astro offer to you?
+Basically, just the routing.
+It offers the tech for
+
 ## 🚀 Project Structure
 
 Inside of your Astro project, you'll see the following folders and files:
